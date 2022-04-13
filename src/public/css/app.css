@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates&family=Source+Code+Pro&display=swap');
+@import url('component.map.css');
+
+
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: 'Montserrat Alternates', sans-serif;
+	
+}
+
+
+.bg-nav {
+	background: rgb(218, 30, 71);
+	background: linear-gradient(90deg, rgba(218, 30, 71, 1) 0%, rgba(187, 123, 137, 1) 97%);
+}
