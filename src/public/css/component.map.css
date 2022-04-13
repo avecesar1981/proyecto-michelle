@@ -9,7 +9,7 @@
 }
 
 
-@media (max-width: 350px) {
+@media screen and (min-width: 400px) {
 
 	.mapa {
 		width: 300px;
