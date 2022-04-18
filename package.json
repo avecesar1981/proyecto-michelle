@@ -1,14 +1,14 @@
 {
   "name": "clinica-michel",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0",
+  "description": "sitio web estático",
   "main": "index.js",
   "scripts": {
     "start": "node src/index.js",
     "dev": "nodemon src/index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "avecesar",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.3",
