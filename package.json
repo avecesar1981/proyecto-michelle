@@ -1,7 +1,7 @@
 {
-  "name": "clinica-michel",
+  "name": "clinica-michelle",
   "version": "1.0",
-  "description": "sitio web estático",
+  "description": "sitio web",
   "main": "index.js",
   "scripts": {
     "start": "node src/index.js",
